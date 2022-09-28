@@ -1,3 +1,5 @@
+// S(n) = 1 + 2 + 3 + … + n
+
 #include <stdio.h>
 #include <math.h>
 
