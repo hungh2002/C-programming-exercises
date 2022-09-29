@@ -1,4 +1,4 @@
-// S(n) = 1 + 2 + 3 + … + n
+// S(n) = (1^2) + (2^2) + (3^2) + … + (n^2)
 
 #include <stdio.h>
 #include <math.h>
