@@ -13,7 +13,7 @@ int main()
 	scanf("%d", &n);
 	if (n < 0)
 		printf("Eror /n");
-	} while (n < 0);
+	} while (n < 1);
 
      for (int i = 1; i <= n; i++) {
 		sum += 1.0 / i;
