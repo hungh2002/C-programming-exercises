@@ -4,7 +4,7 @@
 #include <math.h>
 
 int main () {
-    unsigned int n, sum=0;
+    int n, sum=0;
 
     do {
 	printf("Enter a number = ");
