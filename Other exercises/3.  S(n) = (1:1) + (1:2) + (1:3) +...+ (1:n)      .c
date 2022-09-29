@@ -11,7 +11,7 @@ int main()
     do {
 	printf("Enter a number = ");
 	scanf("%d", &n);
-	if (n < 0)
+	if (n < 1)
 		printf("Eror /n");
 	} while (n < 1);
 
