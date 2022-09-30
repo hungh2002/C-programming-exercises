@@ -1,7 +1,6 @@
 //  S(n)= 1 + (1/3) + (1/5) +...+ (1/ (2*n+1) )
 
 #include <stdio.h>
-#include <math.h>
 
 int main()
 {
