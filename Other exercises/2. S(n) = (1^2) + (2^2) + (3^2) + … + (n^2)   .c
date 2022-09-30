@@ -4,7 +4,8 @@
 #include <math.h>
 
 int main () {
-    int n, sum=0;
+    int n;
+    unsigned int sum=0;
 
     do {
 	printf("Enter a number = ");
