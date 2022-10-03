@@ -11,7 +11,7 @@ int main()
 	printf("Enter a number = ");
 	scanf("%d", &n);
 	if (n < 1)
-		printf("Eror /n");
+		printf("Eror \n");
 	} while (n < 1);
 
      for (int i = 1; i <= n; i++) {
