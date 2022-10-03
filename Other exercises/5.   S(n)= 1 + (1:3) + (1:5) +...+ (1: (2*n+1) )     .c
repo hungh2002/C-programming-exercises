@@ -12,7 +12,7 @@ int main()
 		printf("Enter a number = ");
 		scanf("%d", &n);
 		if (n < 0)
-			printf("Eror /n");
+			printf("Eror \n");
 	} while (n < 0);
 
 	for (int i = 0; i <= n; i++)
